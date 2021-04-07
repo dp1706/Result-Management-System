@@ -11,6 +11,6 @@
     * SetUp Screens
     
       
-      ![](ScreenShots/'Setup Screen'/login Screen.png)
+      ![](ScreenShots/Setup/loginScreen.png)
 
 
