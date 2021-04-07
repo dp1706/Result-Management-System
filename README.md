@@ -17,7 +17,7 @@
     
       <img src="ScreenShots/Setup/ForgotPassword/forgotScreen.png" height="400">Login</img>
       <img src="ScreenShots/Setup/ForgotPassword/forgotValidAlert.png" height="400">Login Alert</img>
-      <img src="ScreenShots/Setup/ForgotPassword/forgotInvalidAlert.png" height="400">Login Alert</img>
+      <img src="ScreenShots/Setup/ForgotPassword/forgotInvalidAlert.png" height="400">Login Invalid Alert</img>
 
     
 
