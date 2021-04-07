@@ -1,2 +1,9 @@
 # Result-Management-System
-This is a Flutter Firebase project 
+
+### About Project
+
+### Purpose
+
+### Project
+
+
