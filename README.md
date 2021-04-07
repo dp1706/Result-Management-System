@@ -10,8 +10,7 @@
   
     * SetUp Screens
     
-      1. Login Screeen 
       
-      ![]
+      ![](ScreenShots/Setup Screen/login Screen.png)
 
 
