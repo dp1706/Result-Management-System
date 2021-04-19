@@ -1,6 +1,6 @@
 ## Result-Management-System
 
-
+![](Result.jpg)
 ### Purpose
 
 ### Project
