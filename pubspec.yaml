@@ -49,12 +49,17 @@ dependencies:
   flutter_calendar_carousel: ^1.5.2
   splashscreen: ^1.3.5
   path_provider: ^1.6.14
-  syncfusion_flutter_xlsio: ^18.3.40-beta
+  connectivity: ^2.0.0
+  shared_preferences:
+  syncfusion_flutter_pdf: ^18.2.59-beta.1
+  open_file: ^3.0.1
+  permission_handler: ^5.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_launcher_icons: ^0.8.0
+  test: any
 
 flutter_icons:
   image_path: "images/icon.png"
@@ -80,6 +85,8 @@ flutter:
     - images/book.png
     - images/user.png
     - images/searching.png
+    - images/loading.gif
+    - images/header.png
 
   #   - images/a_dot_ham.jpeg
 
