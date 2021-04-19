@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494161071908",
+    "project_id": "result-portal-9595f",
+    "storage_bucket": "result-portal-9595f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494161071908:android:e004cf5d680420d8ebedb1",
+        "android_client_info": {
+          "package_name": "com.example.result_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494161071908-kpu78q3vr00m6slv98v06mn49tleddqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9pXq2a409lmcgfRMU7Bisne5AjcfHgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494161071908-kpu78q3vr00m6slv98v06mn49tleddqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
