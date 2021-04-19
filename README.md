@@ -1,9 +1,9 @@
 # Result-Management-System
 
 ![](Result.jpg)
-### Purpose
+## __Purpose__
 
-### Project
+## __Project__
 
   * __Screens__
   
