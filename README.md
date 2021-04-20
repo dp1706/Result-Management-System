@@ -1,6 +1,6 @@
 # Result-Management-System
 
-![](Result.jpg)
+![](Result-removebg-preview.png)
 ## __Purpose__
 
 ## __Project__
