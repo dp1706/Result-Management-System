@@ -24,7 +24,7 @@
 
    1. [Purpose](#Purpose)
    2. [Scope](#Scope)
-   3. [Project Introduction](#Project Introduction)
+   3. [Project Introduction](#Project-Introduction)
    
 ## Purpose
 
