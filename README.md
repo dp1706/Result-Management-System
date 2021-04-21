@@ -34,7 +34,8 @@
    result management. This application will greatly simplify and speed up the result
    preparation and management process.The application will manage the information about
    various students enrolled in this course in different years, the marks obtained by the
-   various students in various subjects in different semesters.```
+   various students in various subjects in different semesters. 
+   ```
 
 ## Scope
 
