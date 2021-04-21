@@ -53,15 +53,21 @@ simplify and speed up the result preparation and management process.
    * Existing-System
    ```
    The manual method of students’ academic result processing was found to be tedious,
-especially when carried out for a large number of students, this makes the entire process
-time-consuming and error prone.
-A existing system has following disadvantages:
+   especially when carried out for a large number of students, this makes the entire process
+   time-consuming and error prone.
+   
+   A existing system has following disadvantages:
+   
 ➢ In the manual system students need to bear a lot of time and cost.
+
 ➢ Compiling the result in the manual system is a tedious process.
+
 ➢ Lack of transparency in the present system.
+
 ➢ In the existing system, students have no proper idea of marks in different
-assessments for their self-evaluation. Learning from mistakes is the best way
-for the growth of a student.
+   assessments for their self-evaluation. Learning from mistakes is the best way
+   for the growth of a student.
+   
 ➢ Existing System creates more pressure on the examination board of the college.
 ```
       
