@@ -41,6 +41,13 @@
 
 ## Scope
 
+  ```
+  The application will manage the information about various students enrolled in this
+course in different years, the subjects offered during different semesters, and the various
+students' marks in multiple subjects in different semesters.The application will greatly
+simplify and speed up the result preparation and management process.
+  ```
+
 ## Project-Introduction
 
    * Existing-System
