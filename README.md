@@ -17,6 +17,13 @@
     4. Programming Language : Dart
     5. SDK : Flutter
 
+   * Project Directory Structure : 
+   
+      1. ![lib](ReadmeImages/lib.png) 
+      2. ![lib](ReadmeImages/auth.png)
+      3. ![lib](ReadmeImages/admin.png)
+      4. ![lib](ReadmeImages/other.png)
+
    * Resources : [Mannual Testing](https://drive.google.com/drive/folders/1HSWuKgS8gAP8CKuOxwLveP8rEYzMmJq3) , [APK File](https://drive.google.com/file/d/17Fq8Fzg9_AdVm4p5YI3m5Umu6ijxO6vB/view?usp=sharing), [Report File](Report.pdf)
 
 
