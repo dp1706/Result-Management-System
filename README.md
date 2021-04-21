@@ -3,7 +3,7 @@
 
 ![](ReadmeImages/Result.png)
 
-## Details:
+## Project Details:
 
    * @Author : `Dwarka prasad Bairwa(1801061)`  , `Amar Kumar(1801016)` , `Deepak Kumar Yadav (1801048)`
    
