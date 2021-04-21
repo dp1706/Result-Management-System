@@ -41,6 +41,7 @@
    3. [Project Introduction](##Project-Introduction)
       * Existing-System
       * Proposed-System
+   4. [Functional Requirements](##Functional-Requirements)
    
 ## Purpose
 
@@ -100,5 +101,6 @@ simplify and speed up the result preparation and management process.
    
    ```
     
+ ## Functional-Requirements
 
 
