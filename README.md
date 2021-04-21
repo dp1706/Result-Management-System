@@ -4,7 +4,7 @@
 
 ## Details:
 
-   * @Author : Dwarka prasad Bairwa(1801061)  , Amar Kumar(1801016) , Deepak Kumar Yadav (1801048)
+   * @Author : `Dwarka prasad Bairwa(1801061)`  , `Amar Kumar(1801016)` , `Deepak Kumar Yadav (1801048)`
    
    * Project Name : Result Management System
 
