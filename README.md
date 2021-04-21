@@ -1,6 +1,6 @@
 # Result-Management-System
 
-<embed src="Report.pdf" type="application/pdf">
+<iframe src="Report.pdf"> </iframe>
 
     
 
