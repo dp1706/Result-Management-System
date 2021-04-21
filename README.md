@@ -25,8 +25,8 @@
    1. [Purpose](##Purpose)
    2. [Scope](##Scope)
    3. [Project Introduction](##Project-Introduction)
-            * [Existing System](###Existing-System)
-            * [Proposed System](###Proposed-System)
+        * [Existing System](Existing-System)
+        * [Proposed System](Proposed-System)
    
 ## Purpose
 
@@ -34,8 +34,8 @@
 
 ## Project-Introduction
 
-  * ###Existing-System
-  * ###Proposed-System
+    * Existing-System
+    * Proposed-System
     
 
 
