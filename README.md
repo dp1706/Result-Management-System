@@ -36,12 +36,12 @@
 
 ## Topics :
 
-   1. [Purpose](##Purpose)
-   2. [Scope](##Scope)
-   3. [Project Introduction](##Project-Introduction)
+   1. [Purpose](#Purpose)
+   2. [Scope](#Scope)
+   3. [Project Introduction](#Project-Introduction)
       * Existing-System
       * Proposed-System
-   4. [Functional Requirements](##Functional-Requirements)
+   4. [Some Screen Pics](#Screen)
    
 ## Purpose
 
@@ -101,5 +101,5 @@ simplify and speed up the result preparation and management process.
    
    ```
     
-
+##Some Screen Pics
 
