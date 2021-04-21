@@ -16,7 +16,7 @@
     4. Programming Language : Dart
     5. SDK : Flutter
 
-   * Resources : [Mannual Testing](https://www.kaggle.com/)
+   * Resources : [Mannual Testing](https://drive.google.com/drive/folders/1HSWuKgS8gAP8CKuOxwLveP8rEYzMmJq3)
 
 
 * __Purpose__
