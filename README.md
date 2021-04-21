@@ -102,5 +102,10 @@ simplify and speed up the result preparation and management process.
    ```
     
  ## Functional-Requirements
+ 
+   * __Login Page for Admin/Faculty/Student :__
+         - In our System there are three types of users : Admin , Student and Faculty. So, we have a Single login page for all users and based
+       on their role in the database they will be redirected towards their respective
+       Dashboard.
 
 
