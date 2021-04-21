@@ -1,7 +1,8 @@
 # Result-Management-System
 ##### Download APK File : [Click here](https://drive.google.com/file/d/17Fq8Fzg9_AdVm4p5YI3m5Umu6ijxO6vB/view?usp=sharing)
 
-Details:
+
+## Details:
 
    * @Author : Dwarka prasad Bairwa(1801061)  , Amar Kumar(1801016) , Deepak Kumar Yadav (1801048)
    
