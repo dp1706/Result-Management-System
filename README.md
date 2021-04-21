@@ -6,7 +6,7 @@
 
    * @Author : `Dwarka prasad Bairwa(1801061)`  , `Amar Kumar(1801016)` , `Deepak Kumar Yadav (1801048)`
    
-   * Project Name : Result Management System
+   * Project Name : `Result Management System`
 
    * Requirements :
    
@@ -16,7 +16,7 @@
     4. Programming Language : Dart
     5. SDK : Flutter
 
-   * Reference Sites: [kaggle](https://www.kaggle.com/) ,  [Medium](https://www.medium.com/)
+   * Resources : [Mannual Testing](https://www.kaggle.com/)
 
 
 * __Purpose__
