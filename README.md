@@ -22,15 +22,20 @@
 
 ## Topics :
 
-   1. [Purpose](#Purpose)
-   2. [Scope](#Scope)
-   3. [Project Introduction](#Project-Introduction)
+   1. [Purpose](##Purpose)
+   2. [Scope](##Scope)
+   3. [Project Introduction](##Project-Introduction)
+            * [Existing System](###Existing-System)
+            * [Proposed System](###Proposed-System)
    
 ## Purpose
 
 ## Scope
 
-## Project Introduction
+## Project-Introduction
+
+  * ###Existing-System
+  * ###Proposed-System
     
 
 
