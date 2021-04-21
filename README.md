@@ -17,7 +17,7 @@
     4. Programming Language : Dart
     5. SDK : Flutter
 
-   * Resources : [Mannual Testing](https://drive.google.com/drive/folders/1HSWuKgS8gAP8CKuOxwLveP8rEYzMmJq3) , [APK File](https://drive.google.com/file/d/17Fq8Fzg9_AdVm4p5YI3m5Umu6ijxO6vB/view?usp=sharing)
+   * Resources : [Mannual Testing](https://drive.google.com/drive/folders/1HSWuKgS8gAP8CKuOxwLveP8rEYzMmJq3) , [APK File](https://drive.google.com/file/d/17Fq8Fzg9_AdVm4p5YI3m5Umu6ijxO6vB/view?usp=sharing), [Report File](Report.pdf)
 
 
 * __Purpose__
