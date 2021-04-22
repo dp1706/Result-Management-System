@@ -9,7 +9,7 @@
    2. [Purpose](#Purpose)
    3. [Scope](#Scope)
    4. [Project Introduction](#Project-Introduction)
-      * [Existing System](*Existing-System)
+      * [Existing System](#Existing-System)
       * Proposed-System
    5. [Some Screen Pics](#Screen)
 
@@ -68,7 +68,7 @@ simplify and speed up the result preparation and management process.
 
 ## Project Introduction
 
-   * Existing-System
+   * Existing System
    ```
    The manual method of students’ academic result processing was found to be tedious,
    especially when carried out for a large number of students, this makes the entire process
