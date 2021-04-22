@@ -29,10 +29,13 @@
 
    * Project Directory Structure : 
    
-       * ![lib](ReadmeImages/lib.png) 
+       <img src="ReadmeImages/lib.png" height=250></img>
+       <img src="ReadmeImages/auth.png" height=250></img>
        
-       * ![auth](ReadmeImages/auth.png)
-       
+       <img src="ReadmeImages/admin.png" height=350 ></img>
+       <img src="ReadmeImages/other.png" height=350></img>
+
+
        * ![admin](ReadmeImages/admin.png)
        
        * ![other](ReadmeImages/other.png)
