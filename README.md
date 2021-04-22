@@ -104,7 +104,7 @@ simplify and speed up the result preparation and management process.
    ```
     
 ## Screen
- * Login/Forgot Password/calender Screen
+ * Login/Forgot Password Screen
  
    <img src="ReadmeImages/Screen0.png" height=500></img>
    <img src="ReadmeImages/Screen1.png" height=500></img>
