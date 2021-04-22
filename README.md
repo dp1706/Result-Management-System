@@ -103,16 +103,12 @@ simplify and speed up the result preparation and management process.
     
 ## Some Screen Pics
 
-   ![](ReadmeImages/Screen0.png)
-   
-   ![](ReadmeImages/Screen1.png)
-   
-   ![](ReadmeImages/Screen2.png)
-   
-   ![](ReadmeImages/Screen3.png)
-   
-   ![](ReadmeImages/Screen4.png)
-   
+   <img src="ReadmeImages/Screen0.png" height=500></img>
+   <img src="ReadmeImages/Screen1.png" height=500></img>
+   <img src="ReadmeImages/Screen2.png" height=500></img>
+
+   <img src="ReadmeImages/Screen3.png" height=500></img>
+   <img src="ReadmeImages/Screen4.png" height=500></img>
 #### See Full Report : [here](Report.pdf)
 
    
