@@ -34,15 +34,11 @@
        
        <img src="ReadmeImages/admin.png" height=350 ></img>
        <img src="ReadmeImages/other.png" height=350></img>
-
-
-       * ![admin](ReadmeImages/admin.png)
-       
-       * ![other](ReadmeImages/other.png)
     
    * Project Dependecies : 
    
-       * ![Dependecies](ReadmeImages/Depand.png)
+       <img src="ReadmeImages/Depand.png" height=450></img>
+
 
    * Resources : [Mannual Testing](https://drive.google.com/drive/folders/1HSWuKgS8gAP8CKuOxwLveP8rEYzMmJq3) , [APK File](https://drive.google.com/file/d/17Fq8Fzg9_AdVm4p5YI3m5Umu6ijxO6vB/view?usp=sharing), [Report File](Report.pdf)
 
