@@ -66,7 +66,7 @@ students' marks in multiple subjects in different semesters.The application will
 simplify and speed up the result preparation and management process.
   ```
 
-## Project-Introduction
+## Project Introduction
 
    * Existing-System
    ```
