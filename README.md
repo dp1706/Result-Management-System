@@ -106,6 +106,7 @@ simplify and speed up the result preparation and management process.
  
    <img src="ReadmeImages/Screen0.png" height=500></img>
    <img src="ReadmeImages/Screen1.png" height=500></img>
+   <img src="ReadmeImages/Screencal.png" height=500></img>
 
  * Student
  
