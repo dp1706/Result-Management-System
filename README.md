@@ -68,7 +68,7 @@ simplify and speed up the result preparation and management process.
 
 ## Project Introduction
 
-   * Existing System
+   #### Existing System
    ```
    The manual method of students’ academic result processing was found to be tedious,
    especially when carried out for a large number of students, this makes the entire process
@@ -85,7 +85,7 @@ simplify and speed up the result preparation and management process.
 ➢ Existing System creates more pressure on the examination board of the college.
 ```
       
-   * Proposed-System
+   #### Proposed-System
    ```
    The system presents a single platform that will be used to manage the processing of all
    examination records within the institution. Admin gives the privileges to the Teacher to
